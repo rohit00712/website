@@ -107,13 +107,13 @@ a:hover {
 }
 
 .developer-img {
-  width: 50%;
+  width: 25%;
   float: left;
   margin-right: 30px;
 }
 
 .hacking-gif {
-  width: 50%;
+  width: 25%;
   float: right;
   margin-left: 30px;
 }
